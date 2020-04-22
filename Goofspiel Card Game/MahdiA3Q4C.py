@@ -8,7 +8,6 @@
         [                         P.Con: Creating The Game of Pure Strategy card game                   ]
         [                         Date Started: 2020-03-25                                              ]
         [                         Date Finished: 2020-03-28                                             ]
-        [                         ICS3UI-02 for Ms. Harris                                              ]
         [                                                                                               ]
         [-----------------------------------------------------------------------------------------------]
         [                                 Program Description                                           ]
